@@ -6,6 +6,10 @@
 * [Tutorial Index][4]
 * [appinventor.org][5]
 * [MIT App Inventor 教學][6]
+* [App Inventor中文教程_参考手册][7]
+* [App Inventor 2 零起點速學指南][8]
+
+
 
 
    [1]: http://appinventor.mit.edu/explore/teach.html
@@ -14,3 +18,5 @@
    [4]: http://www.imagnity.com/tutorial-index/
    [5]: http://www.appinventor.org/
    [6]: http://s810802.pixnet.net/blog/category/1097426
+   [7]: http://www.17coding.net/
+   [8]: https://www.youtube.com/watch?v=Dd7rbkk_HcI&list=PLU-8o76TOvQVbpfKDVWoy3y7sAwHCm3HT
